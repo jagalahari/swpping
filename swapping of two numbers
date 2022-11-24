@@ -1,0 +1,11 @@
+a=int(input('enter a :'))
+enter a :2
+b=int(input('enter b :'))
+enter b :3
+a=a+b
+b=a-b
+a=a-b
+print('a value:',a)
+a value: 3
+print('b value:',b)
+b value: 2
